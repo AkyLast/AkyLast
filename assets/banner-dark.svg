@@ -1,0 +1,289 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0116"/>
+      <stop offset="100%" stop-color="#1D0B3B"/>
+    </linearGradient>
+    <filter id="glow-dark" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="node-glow-dark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    
+</defs>
+<rect x="0" y="0" width="1200" height="300" rx="18" fill="url(#bg-dark)"/>
+<path id="lndark0" d="M 140.0 95.0 L 440.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark1" d="M 140.0 95.0 L 440.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark2" d="M 140.0 95.0 L 440.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark3" d="M 140.0 95.0 L 440.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark4" d="M 140.0 95.0 L 440.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark5" d="M 140.0 150.0 L 440.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark6" d="M 140.0 150.0 L 440.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark7" d="M 140.0 150.0 L 440.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark8" d="M 140.0 150.0 L 440.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark9" d="M 140.0 150.0 L 440.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark10" d="M 140.0 205.0 L 440.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark11" d="M 140.0 205.0 L 440.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark12" d="M 140.0 205.0 L 440.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark13" d="M 140.0 205.0 L 440.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark14" d="M 140.0 205.0 L 440.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark15" d="M 140.0 260.0 L 440.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark16" d="M 140.0 260.0 L 440.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark17" d="M 140.0 260.0 L 440.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark18" d="M 140.0 260.0 L 440.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark19" d="M 140.0 260.0 L 440.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark20" d="M 440.0 95.0 L 760.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark21" d="M 440.0 95.0 L 760.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark22" d="M 440.0 95.0 L 760.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark23" d="M 440.0 95.0 L 760.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark24" d="M 440.0 95.0 L 760.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark25" d="M 440.0 136.2 L 760.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark26" d="M 440.0 136.2 L 760.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark27" d="M 440.0 136.2 L 760.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark28" d="M 440.0 136.2 L 760.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark29" d="M 440.0 136.2 L 760.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark30" d="M 440.0 177.5 L 760.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark31" d="M 440.0 177.5 L 760.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark32" d="M 440.0 177.5 L 760.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark33" d="M 440.0 177.5 L 760.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark34" d="M 440.0 177.5 L 760.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark35" d="M 440.0 218.8 L 760.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark36" d="M 440.0 218.8 L 760.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark37" d="M 440.0 218.8 L 760.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark38" d="M 440.0 218.8 L 760.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark39" d="M 440.0 218.8 L 760.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark40" d="M 440.0 260.0 L 760.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark41" d="M 440.0 260.0 L 760.0 136.2" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark42" d="M 440.0 260.0 L 760.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark43" d="M 440.0 260.0 L 760.0 218.8" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark44" d="M 440.0 260.0 L 760.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark45" d="M 760.0 95.0 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark46" d="M 760.0 95.0 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark47" d="M 760.0 95.0 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark48" d="M 760.0 136.2 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark49" d="M 760.0 136.2 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark50" d="M 760.0 136.2 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark51" d="M 760.0 177.5 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark52" d="M 760.0 177.5 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark53" d="M 760.0 177.5 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark54" d="M 760.0 218.8 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark55" d="M 760.0 218.8 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark56" d="M 760.0 218.8 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark57" d="M 760.0 260.0 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark58" d="M 760.0 260.0 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="lndark59" d="M 760.0 260.0 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.16"/>
+<path id="chain-dark-0" d="M 140.0 95.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 95.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#F72585" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="0.00s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 95.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.00s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-1" d="M 140.0 150.0 L 440.0 136.2 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#B5179E" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="0.84s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 136.2 L 760.0 95.0 L 1060.0 260.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.84s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-2" d="M 140.0 95.0 L 440.0 260.0 L 760.0 218.8 L 1060.0 95.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#4CC9F0" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="1.67s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 260.0 L 760.0 218.8 L 1060.0 95.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="1.67s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-3" d="M 140.0 95.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 95.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#FFD60A" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="2.51s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 95.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="2.51s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-4" d="M 140.0 95.0 L 440.0 260.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#F72585" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="3.34s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 260.0 L 760.0 136.2 L 1060.0 260.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="3.34s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-5" d="M 140.0 260.0 L 440.0 136.2 L 760.0 218.8 L 1060.0 260.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#B5179E" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="4.18s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 136.2 L 760.0 218.8 L 1060.0 260.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="4.18s" repeatCount="indefinite"/>
+        </circle>
+        
+<path id="chain-dark-6" d="M 140.0 205.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="none"/>
+
+        <circle r="4.2" fill="#4CC9F0" filter="url(#glow-dark)">
+          <animateMotion dur="4.5s" begin="5.01s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 260.0"/>
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="5.01s" repeatCount="indefinite"/>
+        </circle>
+        
+
+            <circle cx="140.0" cy="95.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="140.0" cy="95.0" r="7.5" fill="#F72585" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="140.0" cy="150.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="140.0" cy="150.0" r="7.5" fill="#F72585" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="140.0" cy="205.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="140.0" cy="205.0" r="7.5" fill="#F72585" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="140.0" cy="260.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="140.0" cy="260.0" r="7.5" fill="#F72585" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            </circle>
+            
+<text x="140.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#F72585" text-anchor="middle" opacity="0.9">DADOS</text>
+
+            <circle cx="440.0" cy="95.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="440.0" cy="95.0" r="7.5" fill="#B5179E" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="440.0" cy="136.2" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="440.0" cy="136.2" r="7.5" fill="#B5179E" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="440.0" cy="177.5" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="440.0" cy="177.5" r="7.5" fill="#B5179E" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="440.0" cy="218.8" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="440.0" cy="218.8" r="7.5" fill="#B5179E" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="440.0" cy="260.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="440.0" cy="260.0" r="7.5" fill="#B5179E" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            </circle>
+            
+<text x="440.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#B5179E" text-anchor="middle" opacity="0.9">ENGENHARIA</text>
+
+            <circle cx="760.0" cy="95.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="760.0" cy="95.0" r="7.5" fill="#4CC9F0" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="760.0" cy="136.2" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="760.0" cy="136.2" r="7.5" fill="#4CC9F0" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="760.0" cy="177.5" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="760.0" cy="177.5" r="7.5" fill="#4CC9F0" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="760.0" cy="218.8" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="760.0" cy="218.8" r="7.5" fill="#4CC9F0" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="760.0" cy="260.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="760.0" cy="260.0" r="7.5" fill="#4CC9F0" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            </circle>
+            
+<text x="760.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#4CC9F0" text-anchor="middle" opacity="0.9">MODELO / IA</text>
+
+            <circle cx="1060.0" cy="95.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="1060.0" cy="95.0" r="7.5" fill="#FFD60A" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="1060.0" cy="177.5" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="1060.0" cy="177.5" r="7.5" fill="#FFD60A" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            
+
+            <circle cx="1060.0" cy="260.0" r="15.8" fill="url(#node-glow-dark)" opacity="0.35">
+              <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="1060.0" cy="260.0" r="7.5" fill="#FFD60A" filter="url(#glow-dark)">
+              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            </circle>
+            
+<text x="1060.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#FFD60A" text-anchor="middle" opacity="0.9">INSIGHT</text>
+<text x="40" y="60" font-family="Verdana, Arial, sans-serif" font-size="38" font-weight="800" fill="#FFFFFF">LUIS FERNANDO</text>
+</svg>
