@@ -19,10 +19,8 @@ Sou estudante de Ciência e Tecnologia na **UFMA** estudante de **Deep Learning 
 Minha curiosidade nasce da junção de três coisas: **dados**, **matemática** e **imaginação**. Não me interessa só treinar um modelo, quero entender o problema, garantir que os dados contam a verdade, e só então deixar a IA fazer a mágica.
 
 - 🔭 Fui pesquisado de visão computacional aplicada a limpeza de dados, abumentation, treinamento de modelos no VisionLab/UFMA
-- 🌱 Aprofundando fundamentos de IA no **CS50's Introduction to AI with Python** (Harvard)
-- ⚙️ Construindo pipelines ETL e dashboards no meu estágio em Dados & Automação
-- 💬 Pergunte-me sobre: Data Quality, OpenCV, YOLO, K-Means, Power BI
-- 📍 São Luís, Maranhão, Brasil
+- ⚙️ Construo pipelines ETL e dashboards
+- 💬 Pergunte-me sobre: Data Quality, OpenCV, YOLO, K-Means, Power BI, IA
 
 <br/>
 
@@ -88,26 +86,9 @@ Pesquisa acadêmica: limpeza e normalização de dados do SINAN, com clusteriza�
 
 ## 🛠️ Stack
 
-**Linguagens & Backend**
-
-![Python](https://img.shields.io/badge/Python-F72585?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-B5179E-white?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-7209B7?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-560BAD?style=for-the-badge&logo=javascript&logoColor=white)
-
-**Dados & Engenharia**
-
-![Pandas](https://img.shields.io/badge/Pandas-4361EE?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4895EF?style=for-the-badge&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-4CC9F0?style=for-the-badge&logo=powerbi&logoColor=white)
-
-**IA & Visão Computacional**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-FFD60A?style=for-the-badge&logo=pytorch&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC300-black?style=for-the-badge&logo=tensorflow&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF9E00?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-FF6D00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
+| **Linguagens & Backend** | **Dados & Engenharia** | **IA & Visão Computacional** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-F72585?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B5179E-white?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-7209B7?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-560BAD?style=for-the-badge&logo=javascript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-4361EE?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4895EF?style=for-the-badge&logo=numpy&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-4CC9F0?style=for-the-badge&logo=powerbi&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-FFD60A?style=for-the-badge&logo=pytorch&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC300-black?style=for-the-badge&logo=tensorflow&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-FF9E00?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-FF6D00?style=for-the-badge&logo=scikitlearn&logoColor=white) |
 <br/>
 
 ## 📫 Contato
