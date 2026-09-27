@@ -18,267 +18,266 @@
     </radialGradient>
     
 </defs>
-<path id="lnlight0" d="M 140.0 95.0 L 440.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight1" d="M 140.0 95.0 L 440.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight2" d="M 140.0 95.0 L 440.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight3" d="M 140.0 95.0 L 440.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight4" d="M 140.0 95.0 L 440.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight5" d="M 140.0 150.0 L 440.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight6" d="M 140.0 150.0 L 440.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight7" d="M 140.0 150.0 L 440.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight8" d="M 140.0 150.0 L 440.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight9" d="M 140.0 150.0 L 440.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight10" d="M 140.0 205.0 L 440.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight11" d="M 140.0 205.0 L 440.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight12" d="M 140.0 205.0 L 440.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight13" d="M 140.0 205.0 L 440.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight14" d="M 140.0 205.0 L 440.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight15" d="M 140.0 260.0 L 440.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight16" d="M 140.0 260.0 L 440.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight17" d="M 140.0 260.0 L 440.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight18" d="M 140.0 260.0 L 440.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight19" d="M 140.0 260.0 L 440.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight20" d="M 440.0 95.0 L 760.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight21" d="M 440.0 95.0 L 760.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight22" d="M 440.0 95.0 L 760.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight23" d="M 440.0 95.0 L 760.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight24" d="M 440.0 95.0 L 760.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight25" d="M 440.0 136.2 L 760.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight26" d="M 440.0 136.2 L 760.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight27" d="M 440.0 136.2 L 760.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight28" d="M 440.0 136.2 L 760.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight29" d="M 440.0 136.2 L 760.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight30" d="M 440.0 177.5 L 760.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight31" d="M 440.0 177.5 L 760.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight32" d="M 440.0 177.5 L 760.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight33" d="M 440.0 177.5 L 760.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight34" d="M 440.0 177.5 L 760.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight35" d="M 440.0 218.8 L 760.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight36" d="M 440.0 218.8 L 760.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight37" d="M 440.0 218.8 L 760.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight38" d="M 440.0 218.8 L 760.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight39" d="M 440.0 218.8 L 760.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight40" d="M 440.0 260.0 L 760.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight41" d="M 440.0 260.0 L 760.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight42" d="M 440.0 260.0 L 760.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight43" d="M 440.0 260.0 L 760.0 218.8" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight44" d="M 440.0 260.0 L 760.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight45" d="M 760.0 95.0 L 1060.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight46" d="M 760.0 95.0 L 1060.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight47" d="M 760.0 95.0 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight48" d="M 760.0 136.2 L 1060.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight49" d="M 760.0 136.2 L 1060.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight50" d="M 760.0 136.2 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight51" d="M 760.0 177.5 L 1060.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight52" d="M 760.0 177.5 L 1060.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight53" d="M 760.0 177.5 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight54" d="M 760.0 218.8 L 1060.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight55" d="M 760.0 218.8 L 1060.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight56" d="M 760.0 218.8 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight57" d="M 760.0 260.0 L 1060.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight58" d="M 760.0 260.0 L 1060.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="lnlight59" d="M 760.0 260.0 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
-<path id="chain-light-0" d="M 140.0 260.0 L 440.0 177.5 L 760.0 177.5 L 1060.0 95.0" fill="none" stroke="none"/>
+<path id="lnlight0" d="M 70.0 35.0 L 415.7 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight1" d="M 70.0 35.0 L 415.7 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight2" d="M 70.0 35.0 L 415.7 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight3" d="M 70.0 35.0 L 415.7 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight4" d="M 70.0 35.0 L 415.7 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight5" d="M 70.0 111.7 L 415.7 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight6" d="M 70.0 111.7 L 415.7 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight7" d="M 70.0 111.7 L 415.7 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight8" d="M 70.0 111.7 L 415.7 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight9" d="M 70.0 111.7 L 415.7 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight10" d="M 70.0 188.3 L 415.7 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight11" d="M 70.0 188.3 L 415.7 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight12" d="M 70.0 188.3 L 415.7 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight13" d="M 70.0 188.3 L 415.7 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight14" d="M 70.0 188.3 L 415.7 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight15" d="M 70.0 265.0 L 415.7 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight16" d="M 70.0 265.0 L 415.7 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight17" d="M 70.0 265.0 L 415.7 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight18" d="M 70.0 265.0 L 415.7 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight19" d="M 70.0 265.0 L 415.7 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight20" d="M 415.7 35.0 L 784.3 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight21" d="M 415.7 35.0 L 784.3 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight22" d="M 415.7 35.0 L 784.3 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight23" d="M 415.7 35.0 L 784.3 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight24" d="M 415.7 35.0 L 784.3 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight25" d="M 415.7 92.4 L 784.3 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight26" d="M 415.7 92.4 L 784.3 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight27" d="M 415.7 92.4 L 784.3 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight28" d="M 415.7 92.4 L 784.3 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight29" d="M 415.7 92.4 L 784.3 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight30" d="M 415.7 150.0 L 784.3 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight31" d="M 415.7 150.0 L 784.3 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight32" d="M 415.7 150.0 L 784.3 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight33" d="M 415.7 150.0 L 784.3 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight34" d="M 415.7 150.0 L 784.3 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight35" d="M 415.7 207.6 L 784.3 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight36" d="M 415.7 207.6 L 784.3 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight37" d="M 415.7 207.6 L 784.3 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight38" d="M 415.7 207.6 L 784.3 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight39" d="M 415.7 207.6 L 784.3 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight40" d="M 415.7 265.0 L 784.3 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight41" d="M 415.7 265.0 L 784.3 92.4" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight42" d="M 415.7 265.0 L 784.3 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight43" d="M 415.7 265.0 L 784.3 207.6" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight44" d="M 415.7 265.0 L 784.3 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight45" d="M 784.3 35.0 L 1130.0 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight46" d="M 784.3 35.0 L 1130.0 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight47" d="M 784.3 35.0 L 1130.0 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight48" d="M 784.3 92.4 L 1130.0 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight49" d="M 784.3 92.4 L 1130.0 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight50" d="M 784.3 92.4 L 1130.0 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight51" d="M 784.3 150.0 L 1130.0 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight52" d="M 784.3 150.0 L 1130.0 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight53" d="M 784.3 150.0 L 1130.0 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight54" d="M 784.3 207.6 L 1130.0 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight55" d="M 784.3 207.6 L 1130.0 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight56" d="M 784.3 207.6 L 1130.0 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight57" d="M 784.3 265.0 L 1130.0 35.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight58" d="M 784.3 265.0 L 1130.0 150.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="lnlight59" d="M 784.3 265.0 L 1130.0 265.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
+<path id="chain-light-0" d="M 70.0 265.0 L 415.7 150.0 L 784.3 150.0 L 1130.0 35.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#D6006E" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="0.00s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 177.5 L 760.0 177.5 L 1060.0 95.0"/>
+        <circle r="5.7" fill="#D6006E" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="0.00s" repeatCount="indefinite" path="M 70.0 265.0 L 415.7 150.0 L 784.3 150.0 L 1130.0 35.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.00s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-1" d="M 140.0 150.0 L 440.0 177.5 L 760.0 95.0 L 1060.0 95.0" fill="none" stroke="none"/>
+<path id="chain-light-1" d="M 70.0 111.7 L 415.7 150.0 L 784.3 35.0 L 1130.0 35.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="0.84s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 177.5 L 760.0 95.0 L 1060.0 95.0"/>
+        <circle r="5.7" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="0.84s" repeatCount="indefinite" path="M 70.0 111.7 L 415.7 150.0 L 784.3 35.0 L 1130.0 35.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.84s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-2" d="M 140.0 260.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 177.5" fill="none" stroke="none"/>
+<path id="chain-light-2" d="M 70.0 265.0 L 415.7 35.0 L 784.3 150.0 L 1130.0 150.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#0091C2" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="1.67s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 177.5"/>
+        <circle r="5.7" fill="#0091C2" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="1.67s" repeatCount="indefinite" path="M 70.0 265.0 L 415.7 35.0 L 784.3 150.0 L 1130.0 150.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="1.67s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-3" d="M 140.0 205.0 L 440.0 95.0 L 760.0 218.8 L 1060.0 260.0" fill="none" stroke="none"/>
+<path id="chain-light-3" d="M 70.0 188.3 L 415.7 35.0 L 784.3 207.6 L 1130.0 265.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#C79A00" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="2.51s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 95.0 L 760.0 218.8 L 1060.0 260.0"/>
+        <circle r="5.7" fill="#C79A00" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="2.51s" repeatCount="indefinite" path="M 70.0 188.3 L 415.7 35.0 L 784.3 207.6 L 1130.0 265.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="2.51s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-4" d="M 140.0 95.0 L 440.0 218.8 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="none"/>
+<path id="chain-light-4" d="M 70.0 35.0 L 415.7 207.6 L 784.3 35.0 L 1130.0 265.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#D6006E" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="3.34s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 218.8 L 760.0 95.0 L 1060.0 260.0"/>
+        <circle r="5.7" fill="#D6006E" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="3.34s" repeatCount="indefinite" path="M 70.0 35.0 L 415.7 207.6 L 784.3 35.0 L 1130.0 265.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="3.34s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-5" d="M 140.0 205.0 L 440.0 260.0 L 760.0 177.5 L 1060.0 260.0" fill="none" stroke="none"/>
+<path id="chain-light-5" d="M 70.0 188.3 L 415.7 265.0 L 784.3 150.0 L 1130.0 265.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="4.18s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 260.0 L 760.0 177.5 L 1060.0 260.0"/>
+        <circle r="5.7" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="4.18s" repeatCount="indefinite" path="M 70.0 188.3 L 415.7 265.0 L 784.3 150.0 L 1130.0 265.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="4.18s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-light-6" d="M 140.0 150.0 L 440.0 95.0 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="none"/>
+<path id="chain-light-6" d="M 70.0 111.7 L 415.7 35.0 L 784.3 35.0 L 1130.0 265.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#0091C2" opacity="0" filter="url(#glow-light)">
-          <animateMotion dur="4.5s" begin="5.01s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 95.0 L 760.0 95.0 L 1060.0 260.0"/>
+        <circle r="5.7" fill="#0091C2" opacity="0" filter="url(#glow-light)">
+          <animateMotion dur="4.5s" begin="5.01s" repeatCount="indefinite" path="M 70.0 111.7 L 415.7 35.0 L 784.3 35.0 L 1130.0 265.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="5.01s" repeatCount="indefinite"/>
         </circle>
         
 
-            <circle cx="140.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="70.0" cy="35.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="140.0" cy="95.0" r="7.5" fill="#D6006E" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            <circle cx="70.0" cy="35.0" r="10.1" fill="#D6006E" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="140.0" cy="150.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="70.0" cy="111.7" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="140.0" cy="150.0" r="7.5" fill="#D6006E" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            <circle cx="70.0" cy="111.7" r="10.1" fill="#D6006E" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="140.0" cy="205.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="70.0" cy="188.3" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="140.0" cy="205.0" r="7.5" fill="#D6006E" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            <circle cx="70.0" cy="188.3" r="10.1" fill="#D6006E" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="140.0" cy="260.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="70.0" cy="265.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="140.0" cy="260.0" r="7.5" fill="#D6006E" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+            <circle cx="70.0" cy="265.0" r="10.1" fill="#D6006E" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="440.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="415.7" cy="35.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="440.0" cy="95.0" r="7.5" fill="#8A0EA1" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            <circle cx="415.7" cy="35.0" r="10.1" fill="#8A0EA1" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="440.0" cy="136.2" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="415.7" cy="92.4" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="440.0" cy="136.2" r="7.5" fill="#8A0EA1" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            <circle cx="415.7" cy="92.4" r="10.1" fill="#8A0EA1" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="440.0" cy="177.5" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="415.7" cy="150.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="440.0" cy="177.5" r="7.5" fill="#8A0EA1" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            <circle cx="415.7" cy="150.0" r="10.1" fill="#8A0EA1" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="440.0" cy="218.8" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="415.7" cy="207.6" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="440.0" cy="218.8" r="7.5" fill="#8A0EA1" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            <circle cx="415.7" cy="207.6" r="10.1" fill="#8A0EA1" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="440.0" cy="260.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="415.7" cy="265.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="440.0" cy="260.0" r="7.5" fill="#8A0EA1" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
+            <circle cx="415.7" cy="265.0" r="10.1" fill="#8A0EA1" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="760.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="784.3" cy="35.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="760.0" cy="95.0" r="7.5" fill="#0091C2" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            <circle cx="784.3" cy="35.0" r="10.1" fill="#0091C2" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="760.0" cy="136.2" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="784.3" cy="92.4" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="760.0" cy="136.2" r="7.5" fill="#0091C2" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            <circle cx="784.3" cy="92.4" r="10.1" fill="#0091C2" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="760.0" cy="177.5" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="784.3" cy="150.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="760.0" cy="177.5" r="7.5" fill="#0091C2" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            <circle cx="784.3" cy="150.0" r="10.1" fill="#0091C2" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="760.0" cy="218.8" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="784.3" cy="207.6" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="760.0" cy="218.8" r="7.5" fill="#0091C2" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            <circle cx="784.3" cy="207.6" r="10.1" fill="#0091C2" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="760.0" cy="260.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="784.3" cy="265.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="760.0" cy="260.0" r="7.5" fill="#0091C2" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
+            <circle cx="784.3" cy="265.0" r="10.1" fill="#0091C2" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="1060.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="1130.0" cy="35.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="1060.0" cy="95.0" r="7.5" fill="#C79A00" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            <circle cx="1130.0" cy="35.0" r="10.1" fill="#C79A00" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="1060.0" cy="177.5" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="1130.0" cy="150.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="1060.0" cy="177.5" r="7.5" fill="#C79A00" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            <circle cx="1130.0" cy="150.0" r="10.1" fill="#C79A00" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
             
 
-            <circle cx="1060.0" cy="260.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
+            <circle cx="1130.0" cy="265.0" r="21.3" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
-            <circle cx="1060.0" cy="260.0" r="7.5" fill="#C79A00" filter="url(#glow-light)">
-              <animate attributeName="r" values="7.5;10.1;7.5" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+            <circle cx="1130.0" cy="265.0" r="10.1" fill="#C79A00" filter="url(#glow-light)">
+              <animate attributeName="r" values="10.1;13.6;10.1" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
             
-<text x="40" y="60" font-family="Verdana, Arial, sans-serif" font-size="38" font-weight="800" fill="#1B0B34">LUIS FERNANDO</text>
 </svg>
