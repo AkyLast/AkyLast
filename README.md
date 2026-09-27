@@ -18,7 +18,6 @@ Profissional de dados e IA, unindo **pesquisa em Machine Learning/Deep Learning*
 
 Bacharelado Interdisciplinar em Ciência e Tecnologia, **UFMA** (previsão 2028)<br/>
 Objetivo de carreira: **Engenheiro de IA**
-
 <br/>
 
 ## 💼 Experiência
@@ -28,6 +27,7 @@ Objetivo de carreira: **Engenheiro de IA**
 - **Plataforma web de análises** construída de ponta a ponta, onde o Power BI não atendia: coleta e automação dos dados, tratamento, visualização e controle de acesso restrito a colaboradores
 - **Bot de verificação de links** que reduziu uma tarefa de semanas para minutos ([CheckWhats](https://github.com/AkyLast/CheckWhats) é a versão pública)
 - Dashboards em Power BI para acompanhamento de indicadores da área
+
 <br/>
 
 **2. VisionLab, Laboratório de Visão Computacional (UFMA)** · Pesquisador de Deep Learning & Visão Computacional · jun/2025 – fev/2026
@@ -35,6 +35,7 @@ Objetivo de carreira: **Engenheiro de IA**
 - Pré-processamento com OpenCV e Scikit-Image: filtros, transformações e normalização
 - Treino e validação de redes neurais, com data augmentation e técnicas para melhorar a generalização e reduzir overfitting
 - Estudo e aplicação de técnicas do estado da arte nos projetos do laboratório
+
 <br/>
 
 **3. EDECONSIL** · Estágio em Dados e Automação (Engenharia de Dados) · abr/2025 – jun/2025

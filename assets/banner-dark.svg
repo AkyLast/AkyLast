@@ -78,7 +78,7 @@
 <path id="lndark57" d="M 760.0 260.0 L 1060.0 95.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.38"/>
 <path id="lndark58" d="M 760.0 260.0 L 1060.0 177.5" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.38"/>
 <path id="lndark59" d="M 760.0 260.0 L 1060.0 260.0" stroke="#FFFFFF" stroke-width="1.1" fill="none" opacity="0.38"/>
-<path id="chain-dark-0" d="M 140.0 95.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 95.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-0" d="M 140.0 95.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 95.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="0.00s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 95.0"/>
@@ -86,7 +86,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="0.00s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-1" d="M 140.0 150.0 L 440.0 136.2 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-1" d="M 140.0 150.0 L 440.0 136.2 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="0.84s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 136.2 L 760.0 95.0 L 1060.0 260.0"/>
@@ -94,7 +94,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="0.84s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-2" d="M 140.0 95.0 L 440.0 260.0 L 760.0 218.8 L 1060.0 95.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-2" d="M 140.0 95.0 L 440.0 260.0 L 760.0 218.8 L 1060.0 95.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="1.67s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 260.0 L 760.0 218.8 L 1060.0 95.0"/>
@@ -102,7 +102,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="1.67s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-3" d="M 140.0 95.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 95.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-3" d="M 140.0 95.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 95.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="2.51s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 95.0"/>
@@ -110,7 +110,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="2.51s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-4" d="M 140.0 95.0 L 440.0 260.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-4" d="M 140.0 95.0 L 440.0 260.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="3.34s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 260.0 L 760.0 136.2 L 1060.0 260.0"/>
@@ -118,7 +118,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="3.34s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-5" d="M 140.0 260.0 L 440.0 136.2 L 760.0 218.8 L 1060.0 260.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-5" d="M 140.0 260.0 L 440.0 136.2 L 760.0 218.8 L 1060.0 260.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="4.18s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 136.2 L 760.0 218.8 L 1060.0 260.0"/>
@@ -126,7 +126,7 @@
           <animate attributeName="fill" values="#F72585;#F72585;#B5179E;#B5179E;#4CC9F0;#4CC9F0" keyTimes="0;0.3333;0.3333;0.6667;0.6667;1" dur="4.5s" begin="4.18s" repeatCount="indefinite"/>
         </circle>
         
-<path id="chain-dark-6" d="M 140.0 205.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="#F72585" stroke-width="1.6" opacity="0.4"/>
+<path id="chain-dark-6" d="M 140.0 205.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 260.0" fill="none" stroke="#FFFFFF" stroke-width="1.1" opacity="0.38"/>
 
         <circle r="4.2" fill="#F72585" opacity="0" filter="url(#glow-dark)">
           <animateMotion dur="4.5s" begin="5.01s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 95.0 L 760.0 136.2 L 1060.0 260.0"/>
