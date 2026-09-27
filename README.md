@@ -17,7 +17,11 @@
 </tr>
 <tr>
 <td width="30%" align="center" valign="middle">
-  <!-- imagem inferior: a definir -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/loss-landscape-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/loss-landscape-light.webp">
+    <img alt="SGD, Momentum e Adam descendo uma superfície de perda 3D" src="assets/loss-landscape-light.webp" width="100%">
+  </picture>
 </td>
 </tr>
 </table>
@@ -50,10 +54,11 @@ Objetivo de carreira: **Engenheiro de IA**
 
 <br/>
 
-**3. EDECONSIL** · Estágio em Dados e Automação (Engenharia de Dados) · abr/2025 – jun/2025
-- Extração e modelagem de dados com SQL, unificando fontes dispersas para relatórios gerenciais
-- Scripts de Data Cleaning/ETL em Python (Pandas/NumPy): padronização de entradas manuais e tratamento de nulos
-- Pipelines automáticos alimentando dashboards de KPIs no Power BI, eliminando horas de trabalho manual
+**3. EDECONSIL** · Auxiliar Administrativo, com atuação em Dados e Automação · abr/2025 – jun/2025
+- Responsável pelo ciclo completo dos dados da empresa, da coleta à apresentação de resultados à diretoria e às lideranças, apoiando a tomada de decisão
+- Extração e modelagem de dados com SQL, consolidando fontes dispersas em uma base única para relatórios gerenciais
+- Tratamento e padronização de dados em Python (Pandas/NumPy), com rotinas de ETL que garantiram a qualidade das informações
+- Automação de processos e dashboards de KPIs no Power BI, eliminando horas de trabalho manual recorrente
 
 <br/>
 
