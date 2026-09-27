@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Luis Fernando — Engenheiro de IA" src="assets/banner-light.svg" width="100%">
+    <img alt="Luis Fernando: dados, automação e IA aplicada" src="assets/banner-light.svg" width="100%">
   </picture>
 </div>
 
@@ -14,24 +14,44 @@
 
 ## 🧬 Sobre mim
 
-Sou estudante de Ciência e Tecnologia na **UFMA** estudante de **Deep Learning & Visão Computacional**. Gosto de pensar em dados como matéria-prima: transformo o que é bruto e bagunçado em pipelines confiáveis e, em seguida, em modelos que enxergam padrões, literalmente, no caso de visão computacional.
+Profissional de dados e IA, unindo **pesquisa em Machine Learning/Deep Learning** com atuação prática em **Inteligência Comercial no Grupo Mateus**. Trabalho o ciclo de ML de ponta a ponta: engenharia de atributos e estruturação de datasets, treino e validação de modelos supervisionados e não supervisionados (Scikit-Learn/PyTorch), até colocar a solução em uso. Uso estatística e pipelines de dados (SQL/ETL) para transformar dado bruto em decisão.
 
-Minha curiosidade nasce da junção de três coisas: **dados**, **matemática** e **imaginação**. Não me interessa só treinar um modelo, quero entender o problema, garantir que os dados contam a verdade, e só então deixar a IA fazer a mágica.
-
-- 🔭 Fui pesquisado de visão computacional aplicada a limpeza de dados, abumentation, treinamento de modelos no VisionLab/UFMA
-- ⚙️ Construo pipelines ETL e dashboards
-- 💬 Pergunte-me sobre: Data Quality, OpenCV, YOLO, K-Means, Power BI, IA
+Bacharelado Interdisciplinar em Ciência e Tecnologia, **UFMA** (previsão 2028)<br/>
+Objetivo de carreira: **Engenheiro de IA**
 
 <br/>
 
-## 🧠 O que eu construo
+## 💼 Experiência
+
+**1. Grupo Mateus** · Inteligência Comercial / Marketing Analytics
+- **Agentes de IA** que analisam encartes de concorrentes, estruturando produtos e ofertas para a inteligência de mercado
+- **Plataforma web de análises** construída de ponta a ponta, onde o Power BI não atendia: coleta e automação dos dados, tratamento, visualização e controle de acesso restrito a colaboradores
+- **Bot de verificação de links** que reduziu uma tarefa de semanas para minutos ([CheckWhats](https://github.com/AkyLast/CheckWhats) é a versão pública)
+- Dashboards em Power BI para acompanhamento de indicadores da área
+<br/>
+
+**2. VisionLab, Laboratório de Visão Computacional (UFMA)** · Pesquisador de Deep Learning & Visão Computacional · jun/2025 – fev/2026
+- Implementação de arquiteturas de Deep Learning para reconhecimento de padrões em imagens
+- Pré-processamento com OpenCV e Scikit-Image: filtros, transformações e normalização
+- Treino e validação de redes neurais, com data augmentation e técnicas para melhorar a generalização e reduzir overfitting
+- Estudo e aplicação de técnicas do estado da arte nos projetos do laboratório
+<br/>
+
+**3. EDECONSIL** · Estágio em Dados e Automação (Engenharia de Dados) · abr/2025 – jun/2025
+- Extração e modelagem de dados com SQL, unificando fontes dispersas para relatórios gerenciais
+- Scripts de Data Cleaning/ETL em Python (Pandas/NumPy): padronização de entradas manuais e tratamento de nulos
+- Pipelines automáticos alimentando dashboards de KPIs no Power BI, eliminando horas de trabalho manual
+
+<br/>
+
+## 🧠 Visão Computacional & Pesquisa
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Detecção de Fogos de Incêndio
-Sistema de visão computacional para detectar automaticamente focos de incêndio em vídeo. Curadoria de exemplos de "cauda longa" (cenários raros) para reduzir falsos positivos, qualidade do dado acima do modelo.
+### Detecção de Focos de Incêndio
+Sistema de visão computacional para detectar focos de incêndio em vídeo, com abordagem **data-centric**: pipeline de pré-processamento em OpenCV e curadoria de exemplos de "cauda longa" (cenários raros) para aumentar a robustez e reduzir falsos positivos.
 
 `OpenCV` `Deep Learning` `Data-Centric AI`
 
@@ -40,7 +60,7 @@ Sistema de visão computacional para detectar automaticamente focos de incêndio
 </td>
 <td width="50%" valign="top">
 
-### 🅿️ Smart Parking Vision
+### Smart Parking Vision
 Detecção de ocupação de vagas de estacionamento a partir de vídeo, usando ROIs (regiões de interesse) conectadas a uma API REST.
 
 `OpenCV` `REST API` `Visão Computacional`
@@ -52,7 +72,7 @@ Detecção de ocupação de vagas de estacionamento a partir de vídeo, usando R
 <tr>
 <td width="50%" valign="top">
 
-### 👥 Vision People Counting
+### Vision People Counting
 Contagem de pessoas em vídeo com processamento de imagem, pensado para fluxo de pessoas em tempo real.
 
 `OpenCV` `Processamento de Imagem`
@@ -62,23 +82,52 @@ Contagem de pessoas em vídeo com processamento de imagem, pensado para fluxo de
 </td>
 <td width="50%" valign="top">
 
-### 🦟 Fenotipagem Computacional da Dengue
-Pesquisa acadêmica: limpeza e normalização de dados do SINAN, com clusterização (K-Means) para identificar perfis de "risco silencioso" em saúde pública.
+### Fenotipagem Computacional da Dengue
+Pesquisa acadêmica (UFMA): tratamento de dados do SINAN e clusterização com K-Means para segmentar pacientes em grupos de risco. A análise revelou clusters de **"risco silencioso"**: poucos sintomas, mas alta mortalidade.
 
-`Python` `Scikit-Learn` `Estatística`
+`Python` `Scikit-Learn` `Matplotlib` `Estatística`
 
-*Pesquisa acadêmica — repositório em preparação*
+*Pesquisa acadêmica, repositório em preparação*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Ferramentas & Automação
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CheckWhats
+Versão pública do bot de verificação de links que uso no Grupo Mateus. Verificador automatizado e concorrente de links de convite do WhatsApp (grupos/comunidades) direto de planilhas Excel. Checagem 100% anônima (sem login, sem API oficial), com rotação de proxies gratuitos para contornar bloqueios e 100% de cobertura de testes na lógica central.
+
+`Python` `Docker` `pytest` `Automação`
+
+[→ ver projeto](https://github.com/AkyLast/CheckWhats)
+
+</td>
+<td width="50%" valign="top">
+
+### Ubuntu Clipboard
+Gerenciador de área de transferência para Linux (GNOME/Wayland), criado pra contornar os vazamentos de memória do histórico nativo do GNOME. Roda como daemon independente com comunicação via IPC (padrão single-instance) e privacidade híbrida: histórico volátil em RAM, favoritos persistidos em SQLite.
+
+`Python` `PyQt5` `IPC` `SQLite`
+
+[→ ver projeto](https://github.com/AkyLast/ubuntu-clipboard)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>🎮 Primeiros projetos (onde tudo começou)</summary>
+<summary>Primeiros projetos (onde tudo começou)</summary>
 <br/>
 
-- **[FlappyBird-AI](https://github.com/AkyLast/FlappyBird-AI)** — Flappy Bird jogado por uma IA treinada com NEAT (Pygame)
-- **[Snake](https://github.com/AkyLast/Snake)** — o clássico jogo da cobrinha em HTML, CSS e JavaScript
+- **[FlappyBird-AI](https://github.com/AkyLast/FlappyBird-AI)**: Flappy Bird jogado por uma IA treinada com NEAT (Pygame)
+- **[Snake](https://github.com/AkyLast/Snake)**: o clássico jogo da cobrinha em HTML, CSS e JavaScript
 
 </details>
 
@@ -87,9 +136,9 @@ Pesquisa acadêmica: limpeza e normalização de dados do SINAN, com clusteriza�
 ## 🛠️ Stack
 <div align="center">
 
-| **Linguagens & Backend** | **Dados & Engenharia** | **IA & Visão Computacional** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-F72585?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B5179E-white?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-7209B7?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-560BAD?style=for-the-badge&logo=javascript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-4361EE?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4895EF?style=for-the-badge&logo=numpy&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-4CC9F0?style=for-the-badge&logo=powerbi&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-FFD60A?style=for-the-badge&logo=pytorch&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC300-black?style=for-the-badge&logo=tensorflow&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-FF9E00?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-FF6D00?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| **Linguagens & Backend** | **Dados & Engenharia** | **IA & Visão Computacional** | **Automação & Ferramentas** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-F72585?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B5179E-white?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-7209B7?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-560BAD?style=for-the-badge&logo=javascript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-4361EE?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4895EF?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-4CC9F0?style=for-the-badge&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-4CC9F0?style=for-the-badge&logo=powerbi&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-FFD60A?style=for-the-badge&logo=pytorch&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC300-black?style=for-the-badge&logo=tensorflow&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-FF9E00?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF8500?style=for-the-badge&logo=yolo&logoColor=white) ![scikit-image](https://img.shields.io/badge/scikit_image-FF7B00?style=for-the-badge&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-FF6D00?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0096C7?style=for-the-badge&logo=docker&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/Power_Automate-0077B6?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt5-023E8A?style=for-the-badge&logo=qt&logoColor=white) |
 
 </div>
 <br/>
@@ -103,4 +152,3 @@ Pesquisa acadêmica: limpeza e normalização de dados do SINAN, com clusteriza�
 [![Email](https://img.shields.io/badge/Email-luisribeiro.curvelo@gmail.com-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisribeiro.curvelo@gmail.com)
 
 </div>
-
