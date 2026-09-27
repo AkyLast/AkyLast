@@ -1,14 +1,26 @@
-<div align="center">
-
-<div align="center">
+<table width="100%">
+<tr>
+<td width="70%" rowspan="2" align="center" valign="middle">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
     <img alt="Luis Fernando: dados, automação e IA aplicada" src="assets/banner-light.svg" width="100%">
   </picture>
-</div>
-
-</div>
+</td>
+<td width="30%" align="center" valign="middle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cnn-3d-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/cnn-3d-light.webp">
+    <img alt="Rede neural convolucional 3D girando" src="assets/cnn-3d-light.webp" width="100%">
+  </picture>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center" valign="middle">
+  <!-- imagem inferior: a definir -->
+</td>
+</tr>
+</table>
 
 <br/>
 
