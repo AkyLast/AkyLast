@@ -18,7 +18,6 @@
     </radialGradient>
     
 </defs>
-<rect x="0" y="0" width="1200" height="300" rx="18" fill="url(#bg-light)"/>
 <path id="lnlight0" d="M 140.0 95.0 L 440.0 95.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
 <path id="lnlight1" d="M 140.0 95.0 L 440.0 136.2" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
 <path id="lnlight2" d="M 140.0 95.0 L 440.0 177.5" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
@@ -81,49 +80,49 @@
 <path id="lnlight59" d="M 760.0 260.0 L 1060.0 260.0" stroke="#2B1150" stroke-width="1.1" fill="none" opacity="0.2"/>
 <path id="chain-light-0" d="M 140.0 260.0 L 440.0 177.5 L 760.0 177.5 L 1060.0 95.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#D6006E" filter="url(#glow-light)">
+        <circle r="4.2" fill="#D6006E" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="0.00s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 177.5 L 760.0 177.5 L 1060.0 95.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.00s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-1" d="M 140.0 150.0 L 440.0 177.5 L 760.0 95.0 L 1060.0 95.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#8A0EA1" filter="url(#glow-light)">
+        <circle r="4.2" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="0.84s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 177.5 L 760.0 95.0 L 1060.0 95.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="0.84s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-2" d="M 140.0 260.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 177.5" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#0091C2" filter="url(#glow-light)">
+        <circle r="4.2" fill="#0091C2" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="1.67s" repeatCount="indefinite" path="M 140.0 260.0 L 440.0 95.0 L 760.0 177.5 L 1060.0 177.5"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="1.67s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-3" d="M 140.0 205.0 L 440.0 95.0 L 760.0 218.8 L 1060.0 260.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#C79A00" filter="url(#glow-light)">
+        <circle r="4.2" fill="#C79A00" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="2.51s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 95.0 L 760.0 218.8 L 1060.0 260.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="2.51s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-4" d="M 140.0 95.0 L 440.0 218.8 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#D6006E" filter="url(#glow-light)">
+        <circle r="4.2" fill="#D6006E" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="3.34s" repeatCount="indefinite" path="M 140.0 95.0 L 440.0 218.8 L 760.0 95.0 L 1060.0 260.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="3.34s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-5" d="M 140.0 205.0 L 440.0 260.0 L 760.0 177.5 L 1060.0 260.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#8A0EA1" filter="url(#glow-light)">
+        <circle r="4.2" fill="#8A0EA1" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="4.18s" repeatCount="indefinite" path="M 140.0 205.0 L 440.0 260.0 L 760.0 177.5 L 1060.0 260.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="4.18s" repeatCount="indefinite"/>
         </circle>
         
 <path id="chain-light-6" d="M 140.0 150.0 L 440.0 95.0 L 760.0 95.0 L 1060.0 260.0" fill="none" stroke="none"/>
 
-        <circle r="4.2" fill="#0091C2" filter="url(#glow-light)">
+        <circle r="4.2" fill="#0091C2" opacity="0" filter="url(#glow-light)">
           <animateMotion dur="4.5s" begin="5.01s" repeatCount="indefinite" path="M 140.0 150.0 L 440.0 95.0 L 760.0 95.0 L 1060.0 260.0"/>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1" dur="4.5s" begin="5.01s" repeatCount="indefinite"/>
         </circle>
@@ -164,7 +163,6 @@
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
             </circle>
             
-<text x="140.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#D6006E" text-anchor="middle" opacity="0.9">DADOS</text>
 
             <circle cx="440.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
@@ -210,7 +208,6 @@
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="0.55s" repeatCount="indefinite"/>
             </circle>
             
-<text x="440.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8A0EA1" text-anchor="middle" opacity="0.9">ENGENHARIA</text>
 
             <circle cx="760.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
@@ -256,7 +253,6 @@
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.10s" repeatCount="indefinite"/>
             </circle>
             
-<text x="760.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#0091C2" text-anchor="middle" opacity="0.9">MODELO / IA</text>
 
             <circle cx="1060.0" cy="95.0" r="15.8" fill="url(#node-glow-light)" opacity="0.35">
               <animate attributeName="opacity" values="0.12;0.4;0.12" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
@@ -284,6 +280,5 @@
               <animate attributeName="opacity" values="0.65;1;0.65" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
             </circle>
             
-<text x="1060.0" y="286" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#C79A00" text-anchor="middle" opacity="0.9">INSIGHT</text>
 <text x="40" y="60" font-family="Verdana, Arial, sans-serif" font-size="38" font-weight="800" fill="#1B0B34">LUIS FERNANDO</text>
 </svg>
